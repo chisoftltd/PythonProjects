@@ -1,0 +1,1 @@
+print("Welcome to Day of Python in 10 Days")
